@@ -1,0 +1,2 @@
+# NYC-Vehicle-Collision-Analysis-Crash-Trends-Road-Safety-Risk-Factors
+Analyzed NYC vehicle collision data using SQL and Power BI to identify crash trends, high-risk boroughs, major contributing factors, and injury and fatality patterns. The findings informed recommendations for safer driving, improved pedestrian protection, and targeted traffic management to support data-driven road safety decisions.
